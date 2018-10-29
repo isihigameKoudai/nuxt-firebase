@@ -79,3 +79,9 @@ dist
 
 # IDE
 .idea
+
+# firebase configs
+.firebase
+.firebaserc
+functions/package-lock.json
+
